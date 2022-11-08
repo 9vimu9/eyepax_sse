@@ -56,15 +56,16 @@ now application is ready. visit http://localhost/members
 
 
 ## Design Patterns,Architecture, Techniques Implemented
-1. Repository pattern
-2. Service Pattern
-3. Data Transfer Objects using [Laravel-data](https://spatie.be/docs/laravel-data/v2/introduction) package
+1. TDD
+2. Repository pattern
+3. Service Pattern
+4. Data Transfer Objects [Laravel-data](https://spatie.be/docs/laravel-data/v2/introduction) package
     1. for cleaner, Maintainable code
     2. to separate application logic from business logic
-4. Dependency injection using service Providers
-5. Dependency Inversion
-6. SPA
+5. Dependency injection using service Providers
+6. SOLID
+7. SPA
     1. implemented SPA using vue router to reduce page loads
-7. Vue composition API
+8. Vue composition API
     1. for cleaner and Maintainable code
-8. [JSEND](https://github.com/omniti-labs/jsend) used as the JSON based format for application-level communication. 
+9. [JSEND](https://github.com/omniti-labs/jsend) used as the JSON based format for application-level communication. 
