@@ -62,7 +62,7 @@ now application is ready. visit http://localhost/members
     1. for cleaner, Maintainable code
     2. to separate application logic from business logic
 4. Dependency injection using service Providers
-5. Dependency Inversion
+5. SOLID
 6. SPA
     1. implemented SPA using vue router to reduce page loads
 7. Vue composition API
